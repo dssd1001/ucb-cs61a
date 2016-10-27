@@ -1,0 +1,16 @@
+make_user(
+    'David Lee',
+    [
+        make_review('Cafe 3', 2.0),
+        make_review('Cafe Milano', 4.5),
+        make_review('Chipotle Mexican Grill', 3.8),
+        make_review('Crossroads', 3.5),
+        make_review('Durant Square - Asian Ghetto', 3.8),
+        make_review('Golden Bear Cafe', 4.0),
+        make_review('Gypsy\’s Trattoria Italiano', 3.2),
+        make_review('Peets Coffee & Tea', 4.2),
+        make_review('Steve\’s Bar-B-Que', 1.0),
+        make_review('Subway', 2.5),
+        make_review('Thai Basil Cuisine', 4.3),
+    ]
+)
